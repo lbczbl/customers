@@ -1,6 +1,6 @@
 <template>
     <div class="about container">
-    About
+    <h1 class="page-header">哈哈哈哈</h1>
     </div>
 </template>
 <script>
